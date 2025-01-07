@@ -57,3 +57,5 @@ gc.enable()
 
 
 
+dataset = pd.read_csv("C:/Users/losal/Desktop/temporal/DEBER/ec_properties.csv")
+
